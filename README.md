@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **Java, Kotlin & Android SDK**  
+- 🌱 Currently learning **reactjs, mongodb & Android**  
 - 💡 Passionate about **open-source**  
 - ⚡ Fun fact: Gamer 🎮 | Coffee lover ☕ | Lifelong learner 📚  
 - 🎨 I love building **clean, aesthetic & functional web apps**  
@@ -40,12 +40,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DYHARDx&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DYHARDx&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chiragvishnoi-01&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragvishnoi-01&theme=radical&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYHARDx&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragvishnoi-01&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
@@ -56,14 +56,14 @@
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DYHARDx&theme=radical&no-frame=true&margin-w=15&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chiragvishnoi-01&theme=radical&no-frame=true&margin-w=15&row=1&column=7" />
 </p>
 
 ---
 
 ## 🚀 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DYHARDx&theme=tokyo-night&hide_border=true&radius=10" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chiragvishnoi-01&theme=tokyo-night&hide_border=true&radius=10" width="95%"/>
 </p>
 
 ---
